@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Çorbacı Köyü, Lala Paşa Cami - Bayramlaşma 2023",
+    "imagePaths": [
+      "/lala-pasa/lala-pasa-1.jpg",
+      "/lala-pasa/lala-pasa-2.jpg",
+      "/lala-pasa/lala-pasa-3.jpg"
+    ]
+  },
+  {
+    "name": "Talipler Köyü, Rüstem Paşa Cami - Divan Mevlüdü 2024",
+    "imagePaths": [
+      "/assets/rustem-pasa/rustem-pasa-1.jpg",
+      "/assets/rustem-pasa/rustem-pasa-2.jpg",
+      "/assets/rustem-pasa/rustem-pasa-3.jpg"
+    ]
+  }
+]

@@ -17,5 +17,6 @@ public class ProjectSectionP {
     private Long id;
     private String name;
     private String path;
+    @Column(columnDefinition = "TEXT")
     private String description;
 }

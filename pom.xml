@@ -79,12 +79,12 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-				<configuration>
-					<image>
-						<name>registry.example.com/divan/divan-camileri:0.0.1</name>
-						<builder>paketobuildpacks/builder-jammy-base:0.3.372</builder>
-					</image>
-				</configuration>
+<!--				<configuration>-->
+<!--					<image>-->
+<!--						<name>registry.example.com/divan/divan-camileri:0.0.1</name>-->
+<!--						<builder>paketobuildpacks/builder-jammy-base:0.3.372</builder>-->
+<!--					</image>-->
+<!--				</configuration>-->
 			</plugin>
 
 		</plugins>

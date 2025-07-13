@@ -18,4 +18,5 @@ public class MosqueP {
     private String name;
     private String localization;
     private String village;
+    private String heritageImage;
 }
