@@ -14,7 +14,7 @@ RUN mvn -B package -DskipTests
 FROM eclipse-temurin:21-jre-alpine
 
 WORKDIR /app
-COPY --from=build /app/target/divan-camileri-service-*.jar app.jar
+COPY --from=build /app/target/divan-camileri-*.jar app.jar
 
 EXPOSE 9001
 
