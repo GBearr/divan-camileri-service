@@ -15,6 +15,7 @@ FROM eclipse-temurin:21-jre-alpine
 
 WORKDIR /app
 COPY --from=build /app/target/divan-camileri-*.jar app.jar
+RUN chmod 644 /app/app.jar
 
 EXPOSE 9001
 
